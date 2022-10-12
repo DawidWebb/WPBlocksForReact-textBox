@@ -1,0 +1,10 @@
+{
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": false,
+	"[scss]": {
+		"editor.formatOnSave": false,
+		"editor.codeActionsOnSave": {
+			"source.fixAll.stylelint": true
+		}
+	}
+}
